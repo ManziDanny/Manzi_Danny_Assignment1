@@ -1,0 +1,4 @@
+net\danny\loginwebapp\JakartaRestConfiguration.class
+net\danny\loginwebapp\resources\JakartaEE10Resource.class
+LogoutServlet.class
+LoginServlet.class
